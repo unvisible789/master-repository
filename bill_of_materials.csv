@@ -1,0 +1,19 @@
+item_id,category,item,minimum_specification,purpose,notes
+1,mechanical,rotor,Single rigid rotor with known radius and measurable moment of inertia,Test article for one full-revolution energy accounting,Measure mass distribution or determine inertia experimentally
+2,magnetic,PM gradient section,One fixed permanent-magnet gradient section with documented angular span,Provides the proposed gradient interaction,Record magnet grade orientation spacing and mounting geometry
+3,electromagnetic,EML50mm-24,One stationary EML50mm-24 channel,Applies controlled pulse interaction to the gradient,Mount with adjustable and measurable air gap
+4,mechanical,shaft and bearings,Low-friction shaft with repeatable bearing preload,Supports rotor,Characterize coast-down losses before powered tests
+5,drive electronics,pulse driver,Current-limited driver suitable for EML50mm-24 voltage and pulse width,Energizes channel with repeatable timing,Driver input and coil terminals must be measurable
+6,power,DC supply,Stable supply with current limit and logging-compatible terminals,Provides electrical input,Bus energy must be measured at driver input
+7,position sensor,Hall sensor or encoder,Index/angle signal with sufficient timing resolution for pulse windows,Measures rotor position and RPM,Encoder preferred if available
+8,voltage measurement,differential voltage probe or isolated ADC,Range and bandwidth suitable for coil pulses,Measures V_coil(t),Avoid ground-reference errors
+9,voltage measurement,bus voltage divider or isolated ADC,Range suitable for DC bus,Measures V_bus(t),Calibrate before testing
+10,current measurement,current shunt with differential amplifier or Hall current sensor,Bidirectional if recovery is measured,Measures I_coil(t) and/or I_bus(t),Bandwidth must capture pulse and flyback edges
+11,current measurement,recovery current sensor,Bidirectional sensor in flyback/recovery path,Measures reusable recovered energy,Required if flyback recovery is claimed
+12,torque measurement,shaft torque sensor or load cell with lever arm,Calibrated over expected torque range,Measures mechanical output torque,Must support static and dynamic calibration checks
+13,RPM measurement,optical tachometer or encoder-derived RPM,Independent RPM verification,Cross-checks logged position-derived speed,Use for calibration and sanity checks
+14,data logging,multichannel DAQ or oscilloscope,Synchronized channels with adequate sample rate and timestamp accuracy,Records electrical mechanical and position data,Sample fast enough to resolve pulse edges without aliasing
+15,thermal,temperature sensors,Thermocouples or digital sensors for coil driver magnets and bearings,Tracks thermal drift and losses,Record during all powered tests
+16,calibration,calibrated weights and lever arm,Known masses and measured radius/arm,Torque calibration,Repeat before and after tests
+17,calibration,reference voltage/current sources,Known values spanning expected ranges,Voltage and current calibration,Document calibration factors
+18,safety,guarding and emergency stop,Rotor containment and power cutoff,Operator and equipment safety,Required for rotating prototype
