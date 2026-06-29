@@ -1,0 +1,17 @@
+trade,problem,first_checks,needed_documents
+HVAC,Heat pump not heating,"Check thermostat mode/settings, breaker/disconnect, outdoor unit running, ice buildup, air filter, error codes. Escalate refrigerant/electrical issues to pro.","GSZ14 docs, brand manual, thermostat manual"
+HVAC,Heat pump iced over,"Some frost is normal; heavy ice may mean defrost issue, airflow restriction, low refrigerant, sensor/board issue.","Service manual, wiring diagram, defrost board docs"
+HVAC,Thermostat blank,"Check batteries if applicable, furnace/air-handler power, float switch, breaker, low-voltage fuse.","Thermostat manual, air handler wiring diagram"
+Water Heating,No hot water electric tank,"Check breaker, reset, thermostat, elements; electrical testing is pro-level.",Brand install/service manual
+Water Heating,Tankless error code,"Use exact brand/model error table; check venting, gas supply, water flow, ignition, condensate.",Navien/Rinnai/Noritz manual
+Roofing,Roof leak after rain,"Track entry vs visible stain; inspect flashing, pipe boots, valleys, skylights, vents, nail pops.",Roofing manufacturer install docs
+Electrical,Breaker trips repeatedly,"Do not keep resetting; possible overload, short, ground fault, failed appliance or breaker.",Panel/breaker docs; licensed electrician
+Solar/Battery,Solar production low,"Check monitoring app, inverter status, shading, dirty panels, breaker/disconnect, grid outage.",Inverter manual and monitoring docs
+Plumbing,Faucet dripping,"Identify brand/model, cartridge/stem, shutoff, exact parts diagram.",Moen/Delta/Kohler support
+Appliances,Dishwasher not draining,"Check filter, drain hose high loop/air gap, garbage disposal knockout, pump obstruction. Use exact model manual before disassembly.",Appliance owner/service manual
+Appliances,Washer not spinning,"Check load balance, lid/door lock, drain issue, error code, belt/direct drive notes by model.",Washer manual and error code chart
+Appliances,Dryer not heating,"Check lint restriction, breaker/gas supply, vent blockage; electrical/gas testing is pro-level.",Dryer manual and wiring diagram
+Appliances,Refrigerator not cooling,"Check condenser coils, door seal, evaporator fan, condenser fan, start relay, error codes.",Refrigerator service/owner manual
+Garage Doors,Opener will not close,"Check photo eyes/safety sensors, door balance, travel limits, force settings, obstruction.",Opener manual and wiring diagram
+Generators,Standby generator will not start,"Check battery, fuel supply, exercise schedule, error code, oil level, transfer switch status.",Generator owner/install manual
+Pumps,Sump pump not running,"Check power/GFCI, float switch, pit debris, check valve, discharge freezing/clogging.",Pump manual

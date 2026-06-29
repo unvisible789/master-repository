@@ -1,0 +1,1388 @@
+{
+  "brand_document_hubs": [
+    {
+      "trade": "HVAC",
+      "brand": "Goodman",
+      "equipment_scope": "Heat pumps, air conditioners, furnaces, air handlers",
+      "resource_name": "Literature library",
+      "resource_types": "Manuals, specs, brochures",
+      "url": "https://www.goodmanmfg.com/support/literature-library",
+      "source_type": "Official",
+      "notes": "Use model number; also check Daikin/Amana family docs."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Daikin Comfort",
+      "equipment_scope": "Heat pumps, AC, furnaces, ductless",
+      "resource_name": "Owner support center",
+      "resource_types": "Manuals, brochures, warranties",
+      "url": "https://daikincomfort.com/my-daikin-systems/owner-support-center",
+      "source_type": "Official",
+      "notes": "Goodman/Amana/Daikin overlap on some systems."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Amana HVAC",
+      "equipment_scope": "Heat pumps, AC, furnaces",
+      "resource_name": "Product literature",
+      "resource_types": "Manuals, specs, warranties",
+      "url": "https://www.amana-hac.com/resources/product-literature",
+      "source_type": "Official",
+      "notes": "Use model number for exact docs."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Trane",
+      "equipment_scope": "AC, furnace, heat pump, air handler, thermostat",
+      "resource_name": "Owner guides",
+      "resource_types": "Owner manuals, troubleshooting, maintenance",
+      "url": "https://www.trane.com/residential/en/resources/owners-guides/",
+      "source_type": "Official",
+      "notes": "Strong homeowner support source."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "American Standard HVAC",
+      "equipment_scope": "AC, furnace, heat pump, air handler",
+      "resource_name": "Owner support",
+      "resource_types": "Owner guides, safety, DIY tips",
+      "url": "https://www.americanstandardair.com/resources/owners-support/",
+      "source_type": "Official",
+      "notes": "Trane family brand."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Carrier",
+      "equipment_scope": "AC, heat pumps, furnaces, air handlers",
+      "resource_name": "Product and support hub",
+      "resource_types": "Product docs, owners support",
+      "url": "https://www.carrier.com/residential/en/us/products/",
+      "source_type": "Official",
+      "notes": "Carrier/Bryant/Payne family."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Bryant",
+      "equipment_scope": "AC, heat pumps, furnaces",
+      "resource_name": "Product hub",
+      "resource_types": "Product docs and support",
+      "url": "https://www.bryant.com/en/us/",
+      "source_type": "Official",
+      "notes": "Carrier family brand."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Payne",
+      "equipment_scope": "AC, heat pumps, furnaces",
+      "resource_name": "Product hub",
+      "resource_types": "Product docs and support",
+      "url": "https://www.payne.com/en/us/",
+      "source_type": "Official",
+      "notes": "Carrier family value brand."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Lennox",
+      "equipment_scope": "AC, heat pumps, furnaces, controls",
+      "resource_name": "Owner support",
+      "resource_types": "Manuals, warranty, support",
+      "url": "https://www.lennox.com/owners/support",
+      "source_type": "Official",
+      "notes": "Use model number for exact docs."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Rheem HVAC",
+      "equipment_scope": "AC, heat pumps, furnaces",
+      "resource_name": "Resources",
+      "resource_types": "Manuals, guides, support",
+      "url": "https://www.rheem.com/resources/",
+      "source_type": "Official",
+      "notes": "Rheem/Ruud family."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Ruud",
+      "equipment_scope": "AC, heat pumps, furnaces",
+      "resource_name": "Resources",
+      "resource_types": "Manuals, guides, support",
+      "url": "https://www.ruud.com/resources/",
+      "source_type": "Official",
+      "notes": "Rheem/Ruud family."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "York",
+      "equipment_scope": "AC, heat pumps, furnaces",
+      "resource_name": "Resources",
+      "resource_types": "Manuals, product docs",
+      "url": "https://www.york.com/residential-equipment/resources",
+      "source_type": "Official",
+      "notes": "Johnson Controls family."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Bosch Home Comfort",
+      "equipment_scope": "Heat pumps, IDS systems, boilers",
+      "resource_name": "Technical documentation",
+      "resource_types": "Manuals and technical docs",
+      "url": "https://www.bosch-homecomfort.com/us/en/residential/technical-documentation/manuals/heating-and-cooling-heat-pump-systems/",
+      "source_type": "Official",
+      "notes": "Strong heat pump docs."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Mitsubishi Electric",
+      "equipment_scope": "Ductless and ducted heat pumps",
+      "resource_name": "Resources",
+      "resource_types": "Manuals, submittals, guides",
+      "url": "https://www.mitsubishicomfort.com/resources",
+      "source_type": "Official",
+      "notes": "Mini split and hyper heat systems."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Fujitsu General",
+      "equipment_scope": "Mini splits and heat pumps",
+      "resource_name": "Support",
+      "resource_types": "Manuals and support docs",
+      "url": "https://www.fujitsugeneral.com/us/support/",
+      "source_type": "Official",
+      "notes": "Mini split resource."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "LG HVAC",
+      "equipment_scope": "Mini splits and heat pumps",
+      "resource_name": "Support",
+      "resource_types": "Manuals and product docs",
+      "url": "https://www.lghvac.com/support",
+      "source_type": "Official",
+      "notes": "Ductless and VRF resource."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "AprilAire",
+      "equipment_scope": "Humidifiers, dehumidifiers, IAQ, thermostats",
+      "resource_name": "Manuals",
+      "resource_types": "Owner/install manuals",
+      "url": "https://www.aprilaire.com/owner-center/product-manuals",
+      "source_type": "Official",
+      "notes": "Important IAQ add-on brand."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "A.O. Smith",
+      "equipment_scope": "Tank, tankless, heat pump water heaters",
+      "resource_name": "Support",
+      "resource_types": "Manuals, videos, product literature",
+      "url": "https://www.hotwater.com/support.html",
+      "source_type": "Official",
+      "notes": "Includes rebates and pro resources."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "State Water Heaters",
+      "equipment_scope": "Tank and tankless water heaters",
+      "resource_name": "Support",
+      "resource_types": "Manuals, documents, videos",
+      "url": "https://www.statewaterheaters.com/support.html",
+      "source_type": "Official",
+      "notes": "A.O. Smith family."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "American Water Heaters",
+      "equipment_scope": "Water heaters",
+      "resource_name": "Documents and videos",
+      "resource_types": "Manuals and troubleshooting",
+      "url": "https://www.americanwaterheater.com/find-documents-and-videos",
+      "source_type": "Official",
+      "notes": "A.O. Smith family."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "Bradford White",
+      "equipment_scope": "Residential/commercial water heaters",
+      "resource_name": "Technical documents",
+      "resource_types": "Manuals, spec sheets, parts lists",
+      "url": "https://forthepro.bradfordwhite.com/documentation/",
+      "source_type": "Official",
+      "notes": "Best Bradford White pro source."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "Rheem Water Heating",
+      "equipment_scope": "Tank, tankless, hybrid heat pump",
+      "resource_name": "Resources",
+      "resource_types": "Manuals, guides, support",
+      "url": "https://www.rheem.com/resources/",
+      "source_type": "Official",
+      "notes": "Good heat pump water heater content."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "Navien",
+      "equipment_scope": "Tankless, combi, boilers",
+      "resource_name": "Downloads",
+      "resource_types": "Manuals, drawings, specs, certificates",
+      "url": "https://www.navieninc.com/commercial/water-heaters/downloads",
+      "source_type": "Official",
+      "notes": "Important tankless/combi source."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "Rinnai",
+      "equipment_scope": "Tankless water heaters",
+      "resource_name": "Support",
+      "resource_types": "Manuals, warranty, troubleshooting",
+      "url": "https://www.rinnai.us/support",
+      "source_type": "Official",
+      "notes": "Model lookup needed."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "Noritz",
+      "equipment_scope": "Tankless water heaters",
+      "resource_name": "Support",
+      "resource_types": "Manuals and product docs",
+      "url": "https://www.noritz.com/support/",
+      "source_type": "Official",
+      "notes": "Tankless troubleshooting."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "Stiebel Eltron",
+      "equipment_scope": "Electric tankless, heat pump water heaters",
+      "resource_name": "Downloads",
+      "resource_types": "Manuals and specs",
+      "url": "https://www.stiebel-eltron-usa.com/service/downloads",
+      "source_type": "Official",
+      "notes": "Electric tankless and HPWH."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "ENERGY STAR",
+      "equipment_scope": "Heat pump water heaters",
+      "resource_name": "Technical guide",
+      "resource_types": "HPWH technical guide",
+      "url": "https://www.energystar.gov/sites/default/files/2024-07/ENERGY%20STAR%20Heat%20Pump%20Water%20Heater%20Technical%20Guide%20508C.pdf",
+      "source_type": "Government",
+      "notes": "Neutral technical guidance."
+    },
+    {
+      "trade": "Thermostats",
+      "brand": "Honeywell Home / Resideo",
+      "equipment_scope": "Thermostats",
+      "resource_name": "Manual finder",
+      "resource_types": "User/install manuals",
+      "url": "https://www.honeywellhome.com/pages/support-product-selector-thermostat-manuals",
+      "source_type": "Official",
+      "notes": "Most common thermostat manual source."
+    },
+    {
+      "trade": "Thermostats",
+      "brand": "ecobee",
+      "equipment_scope": "Smart thermostats and sensors",
+      "resource_name": "Documents",
+      "resource_types": "Install guides and user manuals",
+      "url": "https://support.ecobee.com/s/articles/download-documents-included-with-your-ecobee-device",
+      "source_type": "Official",
+      "notes": "Good smart thermostat source."
+    },
+    {
+      "trade": "Thermostats",
+      "brand": "Google Nest",
+      "equipment_scope": "Nest thermostats",
+      "resource_name": "Help guide",
+      "resource_types": "Setup and user support",
+      "url": "https://support.google.com/googlehome/answer/9248184?hl=en",
+      "source_type": "Official",
+      "notes": "Homeowner setup and use."
+    },
+    {
+      "trade": "Thermostats",
+      "brand": "Copeland / Emerson / White-Rodgers / Sensi",
+      "equipment_scope": "Thermostats",
+      "resource_name": "Manual lookup",
+      "resource_types": "Install/operation manuals",
+      "url": "https://www.copeland.com/en-us/products/thermostats/thermostat-manuals",
+      "source_type": "Official",
+      "notes": "Covers older White-Rodgers and newer Sensi."
+    },
+    {
+      "trade": "Thermostats",
+      "brand": "Lux Products",
+      "equipment_scope": "Thermostats",
+      "resource_name": "Support",
+      "resource_types": "Manuals and programming help",
+      "url": "https://www.luxproducts.com/pages/support",
+      "source_type": "Official",
+      "notes": "Older affordable thermostats."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "NREL",
+      "equipment_scope": "PVWatts",
+      "resource_name": "Solar calculator",
+      "resource_types": "Production estimate",
+      "url": "https://pvwatts.nrel.gov/",
+      "source_type": "Government",
+      "notes": "Neutral solar production estimator."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "EnergySage",
+      "equipment_scope": "Solar savings",
+      "resource_name": "Calculator",
+      "resource_types": "Savings estimate",
+      "url": "https://www.energysage.com/solar/calculator/",
+      "source_type": "Industry",
+      "notes": "Benchmark for RoofingHut solar tool."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "Enphase",
+      "equipment_scope": "Microinverters, batteries, monitoring",
+      "resource_name": "Documentation",
+      "resource_types": "Install guides, datasheets, support docs",
+      "url": "https://enphase.com/installers/resources/documentation",
+      "source_type": "Official",
+      "notes": "Core microinverter source."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "SolarEdge",
+      "equipment_scope": "Inverters, optimizers, batteries",
+      "resource_name": "Downloads",
+      "resource_types": "Manuals, datasheets, warranties",
+      "url": "https://www.solaredge.com/us/support/downloads",
+      "source_type": "Official",
+      "notes": "Core optimizer/string inverter source."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "Generac Clean Energy",
+      "equipment_scope": "PWRcell, PWRmicro",
+      "resource_name": "Manuals and spec sheets",
+      "resource_types": "Manuals, quick starts, warranties",
+      "url": "https://www.generac.com/dealers-installers/solar-battery-installer-support/manuals-spec-sheets/",
+      "source_type": "Official",
+      "notes": "Good solar/battery technical tables."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "Tesla",
+      "equipment_scope": "Solar and Powerwall",
+      "resource_name": "System manual",
+      "resource_types": "System operation and compatibility",
+      "url": "https://www.tesla.com/sites/default/files/Solar-Panels-with-Powerwall-System-Manual.pdf",
+      "source_type": "Official PDF",
+      "notes": "Homeowner solar/battery source."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "SMA America",
+      "equipment_scope": "Solar inverters",
+      "resource_name": "Downloads",
+      "resource_types": "Manuals, datasheets, certificates",
+      "url": "https://www.sma-america.com/service/downloads",
+      "source_type": "Official",
+      "notes": "String inverter docs."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "Fronius",
+      "equipment_scope": "Solar inverters",
+      "resource_name": "Technical data",
+      "resource_types": "Manuals and datasheets",
+      "url": "https://www.fronius.com/en/solar-energy/installers-partners/technical-data/all-products",
+      "source_type": "Official",
+      "notes": "Inverter docs."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "Qcells",
+      "equipment_scope": "Solar panels and storage",
+      "resource_name": "Downloads",
+      "resource_types": "Datasheets, warranties, manuals",
+      "url": "https://www.qcells.com/us/main/service/downloads.html",
+      "source_type": "Official",
+      "notes": "Panel docs."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "REC Group",
+      "equipment_scope": "Solar panels",
+      "resource_name": "Downloads",
+      "resource_types": "Datasheets, install manuals, warranties",
+      "url": "https://www.recgroup.com/en/downloads",
+      "source_type": "Official",
+      "notes": "Premium panel docs."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "IronRidge",
+      "equipment_scope": "Solar racking",
+      "resource_name": "Resources",
+      "resource_types": "Install manuals, engineering docs",
+      "url": "https://www.ironridge.com/resources/",
+      "source_type": "Official",
+      "notes": "Roof solar mounting."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "Unirac",
+      "equipment_scope": "Solar racking",
+      "resource_name": "Documents",
+      "resource_types": "Install manuals and engineering docs",
+      "url": "https://unirac.com/documents/",
+      "source_type": "Official",
+      "notes": "Roof solar mounting."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "GAF",
+      "equipment_scope": "Shingles, underlayment, accessories",
+      "resource_name": "Product documents",
+      "resource_types": "Install instructions, specs, warranties",
+      "url": "https://www.gaf.com/en-us/resources/product-documents",
+      "source_type": "Official",
+      "notes": "Core shingle source."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "Owens Corning",
+      "equipment_scope": "Roofing system",
+      "resource_name": "Install instructions",
+      "resource_types": "Install guides",
+      "url": "https://www.owenscorning.com/en-us/roofing/install-instructions",
+      "source_type": "Official",
+      "notes": "Clear official install page."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "CertainTeed",
+      "equipment_scope": "Shingles and roofing products",
+      "resource_name": "Roofing resources",
+      "resource_types": "Manuals, specs, warranties",
+      "url": "https://www.certainteed.com/resources/roofing-resources/",
+      "source_type": "Official",
+      "notes": "Important manufacturer docs."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "IKO",
+      "equipment_scope": "Asphalt shingles",
+      "resource_name": "Roofing resources",
+      "resource_types": "Install, warranty, technical docs",
+      "url": "https://www.iko.com/na/residential-roofing/roofing-resources/",
+      "source_type": "Official",
+      "notes": "Shingle docs."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "Atlas Roofing",
+      "equipment_scope": "Shingles and underlayment",
+      "resource_name": "Resources",
+      "resource_types": "Specs, install, warranty",
+      "url": "https://www.atlasroofing.com/roof-shingles/resources",
+      "source_type": "Official",
+      "notes": "Pinnacle/StormMaster docs."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "TAMKO",
+      "equipment_scope": "Shingles and roofing products",
+      "resource_name": "Resources",
+      "resource_types": "Brochures, install, warranty",
+      "url": "https://www.tamko.com/resources",
+      "source_type": "Official",
+      "notes": "Heritage/Titan docs."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "Malarkey",
+      "equipment_scope": "Shingles and accessories",
+      "resource_name": "Resources",
+      "resource_types": "Specs, install, warranty",
+      "url": "https://www.malarkeyroofing.com/resources/",
+      "source_type": "Official",
+      "notes": "Vista/Legacy/Highlander docs."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "Mule-Hide",
+      "equipment_scope": "Flat roofing",
+      "resource_name": "Documents",
+      "resource_types": "Manuals, detail drawings, specs",
+      "url": "https://www.mulehide.com/en-us/Resources",
+      "source_type": "Official",
+      "notes": "Low-slope roofing."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "Carlisle SynTec",
+      "equipment_scope": "Flat roofing",
+      "resource_name": "Resources",
+      "resource_types": "Specs, details, manuals",
+      "url": "https://www.carlislesyntec.com/resources",
+      "source_type": "Official",
+      "notes": "Commercial/low-slope."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "Duro-Last",
+      "equipment_scope": "Single-ply roofing",
+      "resource_name": "Resources",
+      "resource_types": "Specs, details, install",
+      "url": "https://duro-last.com/resources",
+      "source_type": "Official",
+      "notes": "Commercial/low-slope."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "Velux",
+      "equipment_scope": "Skylights",
+      "resource_name": "Support",
+      "resource_types": "Install, flashing, parts",
+      "url": "https://www.veluxusa.com/help",
+      "source_type": "Official",
+      "notes": "Skylight install/leak resource."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "ARMA",
+      "equipment_scope": "Asphalt roofing",
+      "resource_name": "Residential asphalt roofing manual",
+      "resource_types": "Technical manual",
+      "url": "https://www.asphaltroofing.org/media/_pda/2019/03/TAC-Technical-Review-Task-Force-Residential-Asphalt-Roofing-Manual-2014.pdf",
+      "source_type": "Industry PDF",
+      "notes": "Neutral technical source."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "Moen",
+      "equipment_scope": "Faucets, fixtures, smart water",
+      "resource_name": "Solutions",
+      "resource_types": "Install/troubleshooting/model ID",
+      "url": "https://solutions.moen.com/",
+      "source_type": "Official",
+      "notes": "Faucet cartridge/model lookup."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "Delta Faucet",
+      "equipment_scope": "Faucets, showers, toilets, filtration",
+      "resource_name": "Support/how-to",
+      "resource_types": "Videos, FAQs, troubleshooting",
+      "url": "https://www.deltafaucet.com/",
+      "source_type": "Official",
+      "notes": "Homeowner-friendly."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "Kohler",
+      "equipment_scope": "Kitchen/bath fixtures",
+      "resource_name": "Technical specs",
+      "resource_types": "Specs, diagrams, install",
+      "url": "https://www.kohler.com/en/for-professionals/technical-specifications",
+      "source_type": "Official",
+      "notes": "Excellent fixture docs."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "American Standard",
+      "equipment_scope": "Kitchen/bath fixtures",
+      "resource_name": "Support",
+      "resource_types": "FAQs, parts, install support",
+      "url": "https://www.americanstandard-us.com/pages/support",
+      "source_type": "Official",
+      "notes": "Fixture support."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "Toto",
+      "equipment_scope": "Toilets and bath fixtures",
+      "resource_name": "Support",
+      "resource_types": "Manuals, parts, support",
+      "url": "https://www.totousa.com/support",
+      "source_type": "Official",
+      "notes": "Toilet parts/troubleshooting."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "Liberty Pumps",
+      "equipment_scope": "Sump/sewage/drain pumps",
+      "resource_name": "Support",
+      "resource_types": "Manuals, specs, troubleshooting",
+      "url": "https://www.libertypumps.com/Support",
+      "source_type": "Official",
+      "notes": "Pump docs."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "Zoeller",
+      "equipment_scope": "Sump/sewage pumps",
+      "resource_name": "Support",
+      "resource_types": "Manuals, parts, troubleshooting",
+      "url": "https://www.zoellerpumps.com/support/",
+      "source_type": "Official",
+      "notes": "Pump docs."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "Watts",
+      "equipment_scope": "Valves, backflow, water quality",
+      "resource_name": "Resources",
+      "resource_types": "Specs, install, product docs",
+      "url": "https://www.watts.com/resources",
+      "source_type": "Official",
+      "notes": "Valves/backflow/water quality."
+    },
+    {
+      "trade": "Plumbing",
+      "brand": "InSinkErator",
+      "equipment_scope": "Garbage disposals, instant hot water",
+      "resource_name": "Support",
+      "resource_types": "Manuals and troubleshooting",
+      "url": "https://insinkerator.emerson.com/en-us/support",
+      "source_type": "Official",
+      "notes": "Disposal docs."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Schneider Electric / Square D",
+      "equipment_scope": "Panels, breakers, surge protection",
+      "resource_name": "Home surge protection",
+      "resource_types": "Product docs and safety",
+      "url": "https://www.se.com/us/en/work/products/explore/home-surge-protection/",
+      "source_type": "Official",
+      "notes": "Common residential panels."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Eaton",
+      "equipment_scope": "Breakers, panels, surge",
+      "resource_name": "Wiring manual",
+      "resource_types": "Wiring diagrams and examples",
+      "url": "https://www.eaton.com/content/dam/eaton/markets/machinebuilding/eaton-wiring-manual-pu08703001z-en-en-us.pdf",
+      "source_type": "Official PDF",
+      "notes": "Broad electrical wiring reference."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Siemens",
+      "equipment_scope": "Low voltage power distribution",
+      "resource_name": "Product hub",
+      "resource_types": "Panels, breakers, surge docs",
+      "url": "https://www.siemens.com/en-us/products/low-voltage/",
+      "source_type": "Official",
+      "notes": "Siemens residential/commercial docs."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Leviton",
+      "equipment_scope": "Load centers, breakers, devices",
+      "resource_name": "Support",
+      "resource_types": "Manuals and specs",
+      "url": "https://www.leviton.com/en/support",
+      "source_type": "Official",
+      "notes": "Smart load centers and devices."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Lutron",
+      "equipment_scope": "Dimmers, lighting controls",
+      "resource_name": "Support",
+      "resource_types": "Install and compatibility docs",
+      "url": "https://support.lutron.com/us/en",
+      "source_type": "Official",
+      "notes": "Dimmer compatibility."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Generac",
+      "equipment_scope": "Generators and transfer switches",
+      "resource_name": "Support/manuals",
+      "resource_types": "Owner/install manuals",
+      "url": "https://www.generac.com/service-support/product-support-lookup",
+      "source_type": "Official",
+      "notes": "Generator docs by serial/model."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Reliance Controls",
+      "equipment_scope": "Transfer switches",
+      "resource_name": "Support",
+      "resource_types": "Manuals and wiring",
+      "url": "https://www.reliancecontrols.com/support",
+      "source_type": "Official",
+      "notes": "Manual transfer switches."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "ChargePoint",
+      "equipment_scope": "EV chargers",
+      "resource_name": "Support",
+      "resource_types": "Install/user docs",
+      "url": "https://www.chargepoint.com/drivers/support",
+      "source_type": "Official",
+      "notes": "EV charging."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Emporia",
+      "equipment_scope": "EV chargers and energy monitors",
+      "resource_name": "Support",
+      "resource_types": "Install/user docs",
+      "url": "https://help.emporiaenergy.com/",
+      "source_type": "Official",
+      "notes": "Energy monitoring and EV charging."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Whirlpool",
+      "equipment_scope": "Dishwashers, washers, dryers, refrigerators, ranges, microwaves",
+      "resource_name": "Owner Center",
+      "resource_types": "Manuals, parts, warranty, troubleshooting",
+      "url": "https://www.whirlpool.com/services/manuals.html",
+      "source_type": "Official",
+      "notes": "Major appliance manual lookup by model number."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Maytag",
+      "equipment_scope": "Dishwashers, washers, dryers, refrigerators, ranges",
+      "resource_name": "Manuals and literature",
+      "resource_types": "Manuals, parts, support",
+      "url": "https://www.maytag.com/services/manuals.html",
+      "source_type": "Official",
+      "notes": "Whirlpool family brand."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "KitchenAid",
+      "equipment_scope": "Dishwashers, refrigerators, ranges, microwaves",
+      "resource_name": "Manuals and literature",
+      "resource_types": "Manuals, parts, support",
+      "url": "https://www.kitchenaid.com/service-and-support/manuals.html",
+      "source_type": "Official",
+      "notes": "Whirlpool family premium kitchen brand."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Amana Appliances",
+      "equipment_scope": "Dishwashers, washers, dryers, refrigerators, ranges",
+      "resource_name": "Manuals and literature",
+      "resource_types": "Manuals and support",
+      "url": "https://www.amana.com/content/amana/en_us/services/manuals.html",
+      "source_type": "Official",
+      "notes": "Whirlpool family value appliance brand."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "GE Appliances",
+      "equipment_scope": "Dishwashers, washers, dryers, refrigerators, ranges, microwaves",
+      "resource_name": "Owner support",
+      "resource_types": "Manuals, troubleshooting, parts",
+      "url": "https://www.geappliances.com/ge/service-and-support/literature.htm",
+      "source_type": "Official",
+      "notes": "Major appliance manual lookup."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Frigidaire",
+      "equipment_scope": "Dishwashers, washers, dryers, refrigerators, ranges",
+      "resource_name": "Owner center",
+      "resource_types": "Manuals, guides, support",
+      "url": "https://www.frigidaire.com/en/owner-center",
+      "source_type": "Official",
+      "notes": "Manual lookup and appliance support."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Samsung",
+      "equipment_scope": "Dishwashers, washers, dryers, refrigerators, ranges",
+      "resource_name": "Support",
+      "resource_types": "Manuals, downloads, troubleshooting",
+      "url": "https://www.samsung.com/us/support/downloads/",
+      "source_type": "Official",
+      "notes": "Model-specific manual lookup."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "LG Appliances",
+      "equipment_scope": "Dishwashers, washers, dryers, refrigerators, ranges",
+      "resource_name": "Manuals and documents",
+      "resource_types": "Manuals, software, support",
+      "url": "https://www.lg.com/us/support/manuals-documents",
+      "source_type": "Official",
+      "notes": "Model-specific manual lookup."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Bosch Appliances",
+      "equipment_scope": "Dishwashers, refrigerators, ranges",
+      "resource_name": "Owner manuals",
+      "resource_types": "Manuals, support, parts",
+      "url": "https://www.bosch-home.com/us/owner-support/owner-manuals",
+      "source_type": "Official",
+      "notes": "Very common dishwasher brand."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Miele",
+      "equipment_scope": "Dishwashers, washers, dryers, vacuums",
+      "resource_name": "Manuals",
+      "resource_types": "Operating and installation manuals",
+      "url": "https://www.mieleusa.com/c/manuals-and-specifications-2519.htm",
+      "source_type": "Official",
+      "notes": "Premium appliance manuals."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Sub-Zero / Wolf / Cove",
+      "equipment_scope": "Refrigeration, cooking, dishwashers",
+      "resource_name": "Product support",
+      "resource_types": "Manuals, specs, troubleshooting",
+      "url": "https://www.subzero-wolf.com/assistance",
+      "source_type": "Official",
+      "notes": "Premium kitchen appliance support."
+    },
+    {
+      "trade": "Appliances",
+      "brand": "Speed Queen",
+      "equipment_scope": "Washers and dryers",
+      "resource_name": "Support",
+      "resource_types": "Manuals, parts, warranty",
+      "url": "https://speedqueen.com/support/",
+      "source_type": "Official",
+      "notes": "Laundry equipment support."
+    },
+    {
+      "trade": "Generators",
+      "brand": "Kohler",
+      "equipment_scope": "Standby generators and transfer switches",
+      "resource_name": "Support",
+      "resource_types": "Manuals, specs, service",
+      "url": "https://kohlerpower.com/en/residential/support",
+      "source_type": "Official",
+      "notes": "Standby generator docs."
+    },
+    {
+      "trade": "Generators",
+      "brand": "Cummins",
+      "equipment_scope": "Standby generators",
+      "resource_name": "Support",
+      "resource_types": "Manuals, service, support",
+      "url": "https://www.cummins.com/generators/support",
+      "source_type": "Official",
+      "notes": "Generator docs."
+    },
+    {
+      "trade": "Generators",
+      "brand": "Champion",
+      "equipment_scope": "Portable and standby generators",
+      "resource_name": "Support",
+      "resource_types": "Manuals, parts, troubleshooting",
+      "url": "https://www.championpowerequipment.com/support/",
+      "source_type": "Official",
+      "notes": "Portable/inverter generator manuals."
+    },
+    {
+      "trade": "Generators",
+      "brand": "Westinghouse Outdoor Power",
+      "equipment_scope": "Portable generators",
+      "resource_name": "Support",
+      "resource_types": "Manuals and parts",
+      "url": "https://westinghouseoutdoorpower.com/pages/support",
+      "source_type": "Official",
+      "notes": "Portable generator manuals."
+    },
+    {
+      "trade": "Garage Doors",
+      "brand": "LiftMaster",
+      "equipment_scope": "Garage door openers",
+      "resource_name": "Support",
+      "resource_types": "Manuals, parts, programming",
+      "url": "https://support.chamberlaingroup.com/s/liftmaster",
+      "source_type": "Official",
+      "notes": "Common opener brand."
+    },
+    {
+      "trade": "Garage Doors",
+      "brand": "Chamberlain",
+      "equipment_scope": "Garage door openers",
+      "resource_name": "Support",
+      "resource_types": "Manuals, programming, troubleshooting",
+      "url": "https://support.chamberlaingroup.com/s/chamberlain",
+      "source_type": "Official",
+      "notes": "Common homeowner opener brand."
+    },
+    {
+      "trade": "Garage Doors",
+      "brand": "Genie",
+      "equipment_scope": "Garage door openers",
+      "resource_name": "Support",
+      "resource_types": "Manuals and programming",
+      "url": "https://www.geniecompany.com/support",
+      "source_type": "Official",
+      "notes": "Common opener brand."
+    },
+    {
+      "trade": "Garage Doors",
+      "brand": "Clopay",
+      "equipment_scope": "Garage doors",
+      "resource_name": "Support",
+      "resource_types": "Install manuals and care",
+      "url": "https://www.clopaydoor.com/residential/support",
+      "source_type": "Official",
+      "notes": "Garage door install/care."
+    },
+    {
+      "trade": "Windows/Doors",
+      "brand": "Andersen",
+      "equipment_scope": "Windows and doors",
+      "resource_name": "Support",
+      "resource_types": "Install guides, parts, warranty",
+      "url": "https://helpcenter.andersenwindows.com/",
+      "source_type": "Official",
+      "notes": "Window/door support."
+    },
+    {
+      "trade": "Windows/Doors",
+      "brand": "Pella",
+      "equipment_scope": "Windows and doors",
+      "resource_name": "Support",
+      "resource_types": "Install, care, parts, warranty",
+      "url": "https://www.pella.com/support/",
+      "source_type": "Official",
+      "notes": "Window/door support."
+    },
+    {
+      "trade": "Windows/Doors",
+      "brand": "Marvin",
+      "equipment_scope": "Windows and doors",
+      "resource_name": "Support",
+      "resource_types": "Manuals, parts, warranty",
+      "url": "https://www.marvin.com/support",
+      "source_type": "Official",
+      "notes": "Window/door support."
+    },
+    {
+      "trade": "Windows/Doors",
+      "brand": "JELD-WEN",
+      "equipment_scope": "Windows and doors",
+      "resource_name": "Support",
+      "resource_types": "Install and product docs",
+      "url": "https://www.jeld-wen.com/en-us/support",
+      "source_type": "Official",
+      "notes": "Window/door support."
+    },
+    {
+      "trade": "Pumps",
+      "brand": "Grundfos",
+      "equipment_scope": "Circulator, well and utility pumps",
+      "resource_name": "Support",
+      "resource_types": "Manuals, curves, specs",
+      "url": "https://www.grundfos.com/us/support",
+      "source_type": "Official",
+      "notes": "Pump docs."
+    },
+    {
+      "trade": "Pumps",
+      "brand": "Pentair",
+      "equipment_scope": "Pumps, water treatment, pool equipment",
+      "resource_name": "Support",
+      "resource_types": "Manuals, parts, troubleshooting",
+      "url": "https://www.pentair.com/en-us/support.html",
+      "source_type": "Official",
+      "notes": "Pump/pool/water treatment docs."
+    },
+    {
+      "trade": "Pumps",
+      "brand": "Franklin Electric",
+      "equipment_scope": "Well pumps and controls",
+      "resource_name": "Support",
+      "resource_types": "Manuals, AIM manual, specs",
+      "url": "https://franklinwater.com/resources/",
+      "source_type": "Official",
+      "notes": "Well pump and motor documentation."
+    }
+  ],
+  "exact_manual_index": [
+    {
+      "trade": "HVAC",
+      "brand": "Goodman",
+      "product_family": "Heat Pump",
+      "series": "GSZ14",
+      "model": "GSZ140301",
+      "equipment": "2.5 ton split heat pump",
+      "document_type": "Service manual",
+      "document_title": "Goodman GSZ14 Service Manual",
+      "url": "https://documents.alpinehomeair.com/product/Goodman%20GSZ14%20Service%20Manual.pdf",
+      "format": "PDF",
+      "key_specs": "R-410A, 208/230V, single phase",
+      "audience": "Tech only",
+      "notes": "Service/troubleshooting manual for R-410A split heat pumps."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Goodman",
+      "product_family": "Heat Pump",
+      "series": "GSZ14",
+      "model": "GSZ140301",
+      "equipment": "2.5 ton split heat pump",
+      "document_type": "Installation/service reference",
+      "document_title": "Goodman GSZ Installation Manual",
+      "url": "https://www.budgetheating.com/content/files/downloadables/gsz%20-%20installation%20manual.pdf",
+      "format": "PDF",
+      "key_specs": "R-410A, 208/230V, single phase",
+      "audience": "Tech only",
+      "notes": "Installation/service reference; verify exact revision."
+    },
+    {
+      "trade": "HVAC",
+      "brand": "Goodman",
+      "product_family": "Heat Pump",
+      "series": "GSZ14",
+      "model": "GSZ140301",
+      "equipment": "2.5 ton split heat pump",
+      "document_type": "Spec sheet",
+      "document_title": "Goodman GSZ14 Spec Sheet",
+      "url": "https://documents.alpinehomeair.com/product/Goodman%20GSZ14%20Spec%20Sheet.pdf",
+      "format": "PDF",
+      "key_specs": "30,000 BTU, 2.5 ton",
+      "audience": "Homeowner/Tech",
+      "notes": "Performance data, AHRI ratings and wiring diagram section."
+    },
+    {
+      "trade": "Solar/Battery",
+      "brand": "Tesla",
+      "product_family": "Solar + Battery",
+      "series": "Powerwall with solar panels",
+      "model": "N/A",
+      "equipment": "Solar panels with Powerwall",
+      "document_type": "System manual",
+      "document_title": "Tesla Solar Panels with Powerwall System Manual",
+      "url": "https://www.tesla.com/sites/default/files/Solar-Panels-with-Powerwall-System-Manual.pdf",
+      "format": "PDF",
+      "key_specs": "Solar + battery",
+      "audience": "Homeowner/Tech",
+      "notes": "Homeowner system operation and compatibility reference."
+    },
+    {
+      "trade": "Water Heating",
+      "brand": "ENERGY STAR",
+      "product_family": "Heat Pump Water Heater",
+      "series": "HPWH",
+      "model": "N/A",
+      "equipment": "Heat pump water heater",
+      "document_type": "Technical guide",
+      "document_title": "ENERGY STAR HPWH Technical Guide",
+      "url": "https://www.energystar.gov/sites/default/files/2024-07/ENERGY%20STAR%20Heat%20Pump%20Water%20Heater%20Technical%20Guide%20508C.pdf",
+      "format": "PDF",
+      "key_specs": "208/240V typical",
+      "audience": "Homeowner/Tech",
+      "notes": "Neutral planning guide for HPWH content."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Eaton",
+      "product_family": "Surge / Electrical",
+      "series": "Wiring Manual",
+      "model": "N/A",
+      "equipment": "Electrical wiring reference",
+      "document_type": "Wiring manual",
+      "document_title": "Eaton Wiring Manual",
+      "url": "https://www.eaton.com/content/dam/eaton/markets/machinebuilding/eaton-wiring-manual-pu08703001z-en-en-us.pdf",
+      "format": "PDF",
+      "key_specs": "Electrical",
+      "audience": "Tech only",
+      "notes": "Broad wiring/circuit example reference."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Siemens",
+      "product_family": "Surge Protection",
+      "series": "TPS4",
+      "model": "N/A",
+      "equipment": "Surge protective device",
+      "document_type": "Installation/user manual",
+      "document_title": "Siemens TPS4 Surge Protection Manual",
+      "url": "https://support.industry.siemens.com/cs/attachments/109800427/SIE_IM_SurgeProtection_TPS4.pdf",
+      "format": "PDF",
+      "key_specs": "Electrical",
+      "audience": "Tech only",
+      "notes": "SPD installation and operation."
+    },
+    {
+      "trade": "Electrical",
+      "brand": "Generac",
+      "product_family": "Transfer Switch",
+      "series": "GenReady",
+      "model": "N/A",
+      "equipment": "Load center / transfer switch",
+      "document_type": "Owner manual",
+      "document_title": "Generac GenReady Multi-breaker Load Center Owner's Manual",
+      "url": "https://www.generac.com/globalassets/products/residential/standby-generator-transfer-switches/automatic-transfer-switches/owners-manual/g0054532-g0054542-g0054482-g0054492-owners-manual.pdf",
+      "format": "PDF",
+      "key_specs": "Generator transfer switch",
+      "audience": "Tech only",
+      "notes": "Contains wiring diagrams and electrical schematics."
+    },
+    {
+      "trade": "Roofing",
+      "brand": "ARMA",
+      "product_family": "Asphalt Roofing",
+      "series": "Residential Asphalt Roofing Manual",
+      "model": "N/A",
+      "equipment": "Residential asphalt roof systems",
+      "document_type": "Technical manual",
+      "document_title": "Residential Asphalt Roofing Manual",
+      "url": "https://www.asphaltroofing.org/media/_pda/2019/03/TAC-Technical-Review-Task-Force-Residential-Asphalt-Roofing-Manual-2014.pdf",
+      "format": "PDF",
+      "key_specs": "Roofing",
+      "audience": "Homeowner/Tech",
+      "notes": "Neutral asphalt roofing practices."
+    }
+  ],
+  "lookup_rules": [
+    {
+      "topic": "HVAC tonnage",
+      "rule": "018=1.5 ton, 024=2 ton, 030=2.5 ton, 036=3 ton, 042=3.5 ton, 048=4 ton, 060=5 ton",
+      "caution": "Applies broadly to split AC/heat pump model numbers, but always verify."
+    },
+    {
+      "topic": "Goodman GSZ14",
+      "rule": "GSZ14 is Goodman 14 SEER-class split heat pump family using R-410A; GSZ140301 is 30,000 BTU / 2.5 ton single-phase pattern.",
+      "caution": "Exact suffix/revision matters for parts and wiring."
+    },
+    {
+      "topic": "HVAC safety",
+      "rule": "Service manuals are generally for trained HVAC technicians only; homeowners should use owner manuals and call a licensed pro for electrical, refrigerant, gas, or combustion work.",
+      "caution": "Use safety note in RoofingHut answers."
+    },
+    {
+      "topic": "Water heater age",
+      "rule": "Most water heater brands encode manufacture date in serial number, but each brand differs.",
+      "caution": "Use brand-specific age lookup before advising replacement age."
+    },
+    {
+      "topic": "Thermostat wiring",
+      "rule": "Common terminals: R/Rc/Rh 24V, C common, Y compressor, G fan, W/Aux heat, O/B reversing valve.",
+      "caution": "Heat pumps require careful O/B and aux heat setup."
+    },
+    {
+      "topic": "Electrical safety",
+      "rule": "Panel, breaker, transfer switch, surge protector, EV charger and generator wiring should be handled by qualified/licensed electricians.",
+      "caution": "Never present dangerous electrical work as DIY."
+    }
+  ],
+  "troubleshooting_topics": [
+    {
+      "trade": "HVAC",
+      "problem": "Heat pump not heating",
+      "first_checks": "Check thermostat mode/settings, breaker/disconnect, outdoor unit running, ice buildup, air filter, error codes. Escalate refrigerant/electrical issues to pro.",
+      "needed_documents": "GSZ14 docs, brand manual, thermostat manual"
+    },
+    {
+      "trade": "HVAC",
+      "problem": "Heat pump iced over",
+      "first_checks": "Some frost is normal; heavy ice may mean defrost issue, airflow restriction, low refrigerant, sensor/board issue.",
+      "needed_documents": "Service manual, wiring diagram, defrost board docs"
+    },
+    {
+      "trade": "HVAC",
+      "problem": "Thermostat blank",
+      "first_checks": "Check batteries if applicable, furnace/air-handler power, float switch, breaker, low-voltage fuse.",
+      "needed_documents": "Thermostat manual, air handler wiring diagram"
+    },
+    {
+      "trade": "Water Heating",
+      "problem": "No hot water electric tank",
+      "first_checks": "Check breaker, reset, thermostat, elements; electrical testing is pro-level.",
+      "needed_documents": "Brand install/service manual"
+    },
+    {
+      "trade": "Water Heating",
+      "problem": "Tankless error code",
+      "first_checks": "Use exact brand/model error table; check venting, gas supply, water flow, ignition, condensate.",
+      "needed_documents": "Navien/Rinnai/Noritz manual"
+    },
+    {
+      "trade": "Roofing",
+      "problem": "Roof leak after rain",
+      "first_checks": "Track entry vs visible stain; inspect flashing, pipe boots, valleys, skylights, vents, nail pops.",
+      "needed_documents": "Roofing manufacturer install docs"
+    },
+    {
+      "trade": "Electrical",
+      "problem": "Breaker trips repeatedly",
+      "first_checks": "Do not keep resetting; possible overload, short, ground fault, failed appliance or breaker.",
+      "needed_documents": "Panel/breaker docs; licensed electrician"
+    },
+    {
+      "trade": "Solar/Battery",
+      "problem": "Solar production low",
+      "first_checks": "Check monitoring app, inverter status, shading, dirty panels, breaker/disconnect, grid outage.",
+      "needed_documents": "Inverter manual and monitoring docs"
+    },
+    {
+      "trade": "Plumbing",
+      "problem": "Faucet dripping",
+      "first_checks": "Identify brand/model, cartridge/stem, shutoff, exact parts diagram.",
+      "needed_documents": "Moen/Delta/Kohler support"
+    },
+    {
+      "trade": "Appliances",
+      "problem": "Dishwasher not draining",
+      "first_checks": "Check filter, drain hose high loop/air gap, garbage disposal knockout, pump obstruction. Use exact model manual before disassembly.",
+      "needed_documents": "Appliance owner/service manual"
+    },
+    {
+      "trade": "Appliances",
+      "problem": "Washer not spinning",
+      "first_checks": "Check load balance, lid/door lock, drain issue, error code, belt/direct drive notes by model.",
+      "needed_documents": "Washer manual and error code chart"
+    },
+    {
+      "trade": "Appliances",
+      "problem": "Dryer not heating",
+      "first_checks": "Check lint restriction, breaker/gas supply, vent blockage; electrical/gas testing is pro-level.",
+      "needed_documents": "Dryer manual and wiring diagram"
+    },
+    {
+      "trade": "Appliances",
+      "problem": "Refrigerator not cooling",
+      "first_checks": "Check condenser coils, door seal, evaporator fan, condenser fan, start relay, error codes.",
+      "needed_documents": "Refrigerator service/owner manual"
+    },
+    {
+      "trade": "Garage Doors",
+      "problem": "Opener will not close",
+      "first_checks": "Check photo eyes/safety sensors, door balance, travel limits, force settings, obstruction.",
+      "needed_documents": "Opener manual and wiring diagram"
+    },
+    {
+      "trade": "Generators",
+      "problem": "Standby generator will not start",
+      "first_checks": "Check battery, fuel supply, exercise schedule, error code, oil level, transfer switch status.",
+      "needed_documents": "Generator owner/install manual"
+    },
+    {
+      "trade": "Pumps",
+      "problem": "Sump pump not running",
+      "first_checks": "Check power/GFCI, float switch, pit debris, check valve, discharge freezing/clogging.",
+      "needed_documents": "Pump manual"
+    }
+  ],
+  "trade_coverage": [
+    {
+      "trade": "Roofing",
+      "product_families": "Shingles, metal, flat, underlayment, flashing, vents, skylights, gutters",
+      "document_types_needed": "Install instructions, detail drawings, warranty, repair guides"
+    },
+    {
+      "trade": "HVAC",
+      "product_families": "AC, heat pump, furnace, air handler, mini split, IAQ, humidifiers",
+      "document_types_needed": "Install, owner, service, wiring, fault codes, parts lists"
+    },
+    {
+      "trade": "Water Heating",
+      "product_families": "Gas/electric tank, tankless, HPWH, combi, boilers",
+      "document_types_needed": "Install, service, wiring, venting, error codes, parts"
+    },
+    {
+      "trade": "Thermostats",
+      "product_families": "Smart, programmable, non-programmable, communicating",
+      "document_types_needed": "Install, wiring, setup, compatibility, user guides"
+    },
+    {
+      "trade": "Solar/Battery",
+      "product_families": "Panels, inverters, batteries, racking, rapid shutdown",
+      "document_types_needed": "Datasheets, install, commissioning, compatibility, warranty"
+    },
+    {
+      "trade": "Electrical",
+      "product_families": "Panels, breakers, surge, transfer switches, EV chargers",
+      "document_types_needed": "Wiring diagrams, install, compatibility, safety docs"
+    },
+    {
+      "trade": "Plumbing",
+      "product_families": "Fixtures, valves, pumps, filtration, disposals",
+      "document_types_needed": "Install, parts diagrams, troubleshooting, warranty"
+    },
+    {
+      "trade": "Generators",
+      "product_families": "Standby, portable, inverter, transfer switches",
+      "document_types_needed": "Owner, install, wiring, maintenance, parts"
+    },
+    {
+      "trade": "Appliances",
+      "product_families": "Refrigerator, range, dishwasher, washer/dryer",
+      "document_types_needed": "Owner/install, error codes, wiring where available"
+    },
+    {
+      "trade": "Windows/Doors",
+      "product_families": "Windows, exterior doors, skylights",
+      "document_types_needed": "Install, flashing, parts, warranty"
+    },
+    {
+      "trade": "Siding/Exterior",
+      "product_families": "Vinyl, fiber cement, engineered wood, housewrap",
+      "document_types_needed": "Install, clearance, fastening, warranty"
+    },
+    {
+      "trade": "Insulation/Air Sealing",
+      "product_families": "Batts, blown, spray foam, rigid foam",
+      "document_types_needed": "R-value, install, SDS, code guides"
+    },
+    {
+      "trade": "Garage Doors",
+      "product_families": "Doors, openers, springs, sensors",
+      "document_types_needed": "Owner/install, troubleshooting, wiring"
+    },
+    {
+      "trade": "Flooring/Tile",
+      "product_families": "LVP, laminate, hardwood, tile, grout",
+      "document_types_needed": "Install, substrate, warranty"
+    },
+    {
+      "trade": "Drywall/Paint",
+      "product_families": "Drywall, joint compound, coatings, sealants",
+      "document_types_needed": "Product data, SDS, application guides"
+    },
+    {
+      "trade": "Masonry/Concrete",
+      "product_families": "Concrete, mortar, pavers, waterproofing",
+      "document_types_needed": "Product data, SDS, structural guides"
+    },
+    {
+      "trade": "Decks/Outdoor",
+      "product_families": "Decking, railing, fasteners",
+      "document_types_needed": "Install, span/fastening, warranty"
+    },
+    {
+      "trade": "Pools/Spas",
+      "product_families": "Pumps, heaters, filters, automation",
+      "document_types_needed": "Manuals, wiring, error codes"
+    },
+    {
+      "trade": "Smart Home/Security",
+      "product_families": "Cameras, locks, sensors, alarms",
+      "document_types_needed": "Setup, wiring, compatibility"
+    },
+    {
+      "trade": "Irrigation/Landscape",
+      "product_families": "Controllers, valves, pumps, lighting",
+      "document_types_needed": "Manuals, wiring, troubleshooting"
+    },
+    {
+      "trade": "Septic/Well",
+      "product_families": "Well pumps, pressure tanks, septic pumps",
+      "document_types_needed": "Pump curves, wiring, troubleshooting"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+trade,brand,equipment_scope,resource_name,resource_types,url,source_type,notes
+HVAC,Goodman,"Heat pumps, air conditioners, furnaces, air handlers",Literature library,"Manuals, specs, brochures",https://www.goodmanmfg.com/support/literature-library,Official,Use model number; also check Daikin/Amana family docs.
+HVAC,Daikin Comfort,"Heat pumps, AC, furnaces, ductless",Owner support center,"Manuals, brochures, warranties",https://daikincomfort.com/my-daikin-systems/owner-support-center,Official,Goodman/Amana/Daikin overlap on some systems.
+HVAC,Amana HVAC,"Heat pumps, AC, furnaces",Product literature,"Manuals, specs, warranties",https://www.amana-hac.com/resources/product-literature,Official,Use model number for exact docs.
+HVAC,Trane,"AC, furnace, heat pump, air handler, thermostat",Owner guides,"Owner manuals, troubleshooting, maintenance",https://www.trane.com/residential/en/resources/owners-guides/,Official,Strong homeowner support source.
+HVAC,American Standard HVAC,"AC, furnace, heat pump, air handler",Owner support,"Owner guides, safety, DIY tips",https://www.americanstandardair.com/resources/owners-support/,Official,Trane family brand.
+HVAC,Carrier,"AC, heat pumps, furnaces, air handlers",Product and support hub,"Product docs, owners support",https://www.carrier.com/residential/en/us/products/,Official,Carrier/Bryant/Payne family.
+HVAC,Bryant,"AC, heat pumps, furnaces",Product hub,Product docs and support,https://www.bryant.com/en/us/,Official,Carrier family brand.
+HVAC,Payne,"AC, heat pumps, furnaces",Product hub,Product docs and support,https://www.payne.com/en/us/,Official,Carrier family value brand.
+HVAC,Lennox,"AC, heat pumps, furnaces, controls",Owner support,"Manuals, warranty, support",https://www.lennox.com/owners/support,Official,Use model number for exact docs.
+HVAC,Rheem HVAC,"AC, heat pumps, furnaces",Resources,"Manuals, guides, support",https://www.rheem.com/resources/,Official,Rheem/Ruud family.
+HVAC,Ruud,"AC, heat pumps, furnaces",Resources,"Manuals, guides, support",https://www.ruud.com/resources/,Official,Rheem/Ruud family.
+HVAC,York,"AC, heat pumps, furnaces",Resources,"Manuals, product docs",https://www.york.com/residential-equipment/resources,Official,Johnson Controls family.
+HVAC,Bosch Home Comfort,"Heat pumps, IDS systems, boilers",Technical documentation,Manuals and technical docs,https://www.bosch-homecomfort.com/us/en/residential/technical-documentation/manuals/heating-and-cooling-heat-pump-systems/,Official,Strong heat pump docs.
+HVAC,Mitsubishi Electric,Ductless and ducted heat pumps,Resources,"Manuals, submittals, guides",https://www.mitsubishicomfort.com/resources,Official,Mini split and hyper heat systems.
+HVAC,Fujitsu General,Mini splits and heat pumps,Support,Manuals and support docs,https://www.fujitsugeneral.com/us/support/,Official,Mini split resource.
+HVAC,LG HVAC,Mini splits and heat pumps,Support,Manuals and product docs,https://www.lghvac.com/support,Official,Ductless and VRF resource.
+HVAC,AprilAire,"Humidifiers, dehumidifiers, IAQ, thermostats",Manuals,Owner/install manuals,https://www.aprilaire.com/owner-center/product-manuals,Official,Important IAQ add-on brand.
+Water Heating,A.O. Smith,"Tank, tankless, heat pump water heaters",Support,"Manuals, videos, product literature",https://www.hotwater.com/support.html,Official,Includes rebates and pro resources.
+Water Heating,State Water Heaters,Tank and tankless water heaters,Support,"Manuals, documents, videos",https://www.statewaterheaters.com/support.html,Official,A.O. Smith family.
+Water Heating,American Water Heaters,Water heaters,Documents and videos,Manuals and troubleshooting,https://www.americanwaterheater.com/find-documents-and-videos,Official,A.O. Smith family.
+Water Heating,Bradford White,Residential/commercial water heaters,Technical documents,"Manuals, spec sheets, parts lists",https://forthepro.bradfordwhite.com/documentation/,Official,Best Bradford White pro source.
+Water Heating,Rheem Water Heating,"Tank, tankless, hybrid heat pump",Resources,"Manuals, guides, support",https://www.rheem.com/resources/,Official,Good heat pump water heater content.
+Water Heating,Navien,"Tankless, combi, boilers",Downloads,"Manuals, drawings, specs, certificates",https://www.navieninc.com/commercial/water-heaters/downloads,Official,Important tankless/combi source.
+Water Heating,Rinnai,Tankless water heaters,Support,"Manuals, warranty, troubleshooting",https://www.rinnai.us/support,Official,Model lookup needed.
+Water Heating,Noritz,Tankless water heaters,Support,Manuals and product docs,https://www.noritz.com/support/,Official,Tankless troubleshooting.
+Water Heating,Stiebel Eltron,"Electric tankless, heat pump water heaters",Downloads,Manuals and specs,https://www.stiebel-eltron-usa.com/service/downloads,Official,Electric tankless and HPWH.
+Water Heating,ENERGY STAR,Heat pump water heaters,Technical guide,HPWH technical guide,https://www.energystar.gov/sites/default/files/2024-07/ENERGY%20STAR%20Heat%20Pump%20Water%20Heater%20Technical%20Guide%20508C.pdf,Government,Neutral technical guidance.
+Thermostats,Honeywell Home / Resideo,Thermostats,Manual finder,User/install manuals,https://www.honeywellhome.com/pages/support-product-selector-thermostat-manuals,Official,Most common thermostat manual source.
+Thermostats,ecobee,Smart thermostats and sensors,Documents,Install guides and user manuals,https://support.ecobee.com/s/articles/download-documents-included-with-your-ecobee-device,Official,Good smart thermostat source.
+Thermostats,Google Nest,Nest thermostats,Help guide,Setup and user support,https://support.google.com/googlehome/answer/9248184?hl=en,Official,Homeowner setup and use.
+Thermostats,Copeland / Emerson / White-Rodgers / Sensi,Thermostats,Manual lookup,Install/operation manuals,https://www.copeland.com/en-us/products/thermostats/thermostat-manuals,Official,Covers older White-Rodgers and newer Sensi.
+Thermostats,Lux Products,Thermostats,Support,Manuals and programming help,https://www.luxproducts.com/pages/support,Official,Older affordable thermostats.
+Solar/Battery,NREL,PVWatts,Solar calculator,Production estimate,https://pvwatts.nrel.gov/,Government,Neutral solar production estimator.
+Solar/Battery,EnergySage,Solar savings,Calculator,Savings estimate,https://www.energysage.com/solar/calculator/,Industry,Benchmark for RoofingHut solar tool.
+Solar/Battery,Enphase,"Microinverters, batteries, monitoring",Documentation,"Install guides, datasheets, support docs",https://enphase.com/installers/resources/documentation,Official,Core microinverter source.
+Solar/Battery,SolarEdge,"Inverters, optimizers, batteries",Downloads,"Manuals, datasheets, warranties",https://www.solaredge.com/us/support/downloads,Official,Core optimizer/string inverter source.
+Solar/Battery,Generac Clean Energy,"PWRcell, PWRmicro",Manuals and spec sheets,"Manuals, quick starts, warranties",https://www.generac.com/dealers-installers/solar-battery-installer-support/manuals-spec-sheets/,Official,Good solar/battery technical tables.
+Solar/Battery,Tesla,Solar and Powerwall,System manual,System operation and compatibility,https://www.tesla.com/sites/default/files/Solar-Panels-with-Powerwall-System-Manual.pdf,Official PDF,Homeowner solar/battery source.
+Solar/Battery,SMA America,Solar inverters,Downloads,"Manuals, datasheets, certificates",https://www.sma-america.com/service/downloads,Official,String inverter docs.
+Solar/Battery,Fronius,Solar inverters,Technical data,Manuals and datasheets,https://www.fronius.com/en/solar-energy/installers-partners/technical-data/all-products,Official,Inverter docs.
+Solar/Battery,Qcells,Solar panels and storage,Downloads,"Datasheets, warranties, manuals",https://www.qcells.com/us/main/service/downloads.html,Official,Panel docs.
+Solar/Battery,REC Group,Solar panels,Downloads,"Datasheets, install manuals, warranties",https://www.recgroup.com/en/downloads,Official,Premium panel docs.
+Solar/Battery,IronRidge,Solar racking,Resources,"Install manuals, engineering docs",https://www.ironridge.com/resources/,Official,Roof solar mounting.
+Solar/Battery,Unirac,Solar racking,Documents,Install manuals and engineering docs,https://unirac.com/documents/,Official,Roof solar mounting.
+Roofing,GAF,"Shingles, underlayment, accessories",Product documents,"Install instructions, specs, warranties",https://www.gaf.com/en-us/resources/product-documents,Official,Core shingle source.
+Roofing,Owens Corning,Roofing system,Install instructions,Install guides,https://www.owenscorning.com/en-us/roofing/install-instructions,Official,Clear official install page.
+Roofing,CertainTeed,Shingles and roofing products,Roofing resources,"Manuals, specs, warranties",https://www.certainteed.com/resources/roofing-resources/,Official,Important manufacturer docs.
+Roofing,IKO,Asphalt shingles,Roofing resources,"Install, warranty, technical docs",https://www.iko.com/na/residential-roofing/roofing-resources/,Official,Shingle docs.
+Roofing,Atlas Roofing,Shingles and underlayment,Resources,"Specs, install, warranty",https://www.atlasroofing.com/roof-shingles/resources,Official,Pinnacle/StormMaster docs.
+Roofing,TAMKO,Shingles and roofing products,Resources,"Brochures, install, warranty",https://www.tamko.com/resources,Official,Heritage/Titan docs.
+Roofing,Malarkey,Shingles and accessories,Resources,"Specs, install, warranty",https://www.malarkeyroofing.com/resources/,Official,Vista/Legacy/Highlander docs.
+Roofing,Mule-Hide,Flat roofing,Documents,"Manuals, detail drawings, specs",https://www.mulehide.com/en-us/Resources,Official,Low-slope roofing.
+Roofing,Carlisle SynTec,Flat roofing,Resources,"Specs, details, manuals",https://www.carlislesyntec.com/resources,Official,Commercial/low-slope.
+Roofing,Duro-Last,Single-ply roofing,Resources,"Specs, details, install",https://duro-last.com/resources,Official,Commercial/low-slope.
+Roofing,Velux,Skylights,Support,"Install, flashing, parts",https://www.veluxusa.com/help,Official,Skylight install/leak resource.
+Roofing,ARMA,Asphalt roofing,Residential asphalt roofing manual,Technical manual,https://www.asphaltroofing.org/media/_pda/2019/03/TAC-Technical-Review-Task-Force-Residential-Asphalt-Roofing-Manual-2014.pdf,Industry PDF,Neutral technical source.
+Plumbing,Moen,"Faucets, fixtures, smart water",Solutions,Install/troubleshooting/model ID,https://solutions.moen.com/,Official,Faucet cartridge/model lookup.
+Plumbing,Delta Faucet,"Faucets, showers, toilets, filtration",Support/how-to,"Videos, FAQs, troubleshooting",https://www.deltafaucet.com/,Official,Homeowner-friendly.
+Plumbing,Kohler,Kitchen/bath fixtures,Technical specs,"Specs, diagrams, install",https://www.kohler.com/en/for-professionals/technical-specifications,Official,Excellent fixture docs.
+Plumbing,American Standard,Kitchen/bath fixtures,Support,"FAQs, parts, install support",https://www.americanstandard-us.com/pages/support,Official,Fixture support.
+Plumbing,Toto,Toilets and bath fixtures,Support,"Manuals, parts, support",https://www.totousa.com/support,Official,Toilet parts/troubleshooting.
+Plumbing,Liberty Pumps,Sump/sewage/drain pumps,Support,"Manuals, specs, troubleshooting",https://www.libertypumps.com/Support,Official,Pump docs.
+Plumbing,Zoeller,Sump/sewage pumps,Support,"Manuals, parts, troubleshooting",https://www.zoellerpumps.com/support/,Official,Pump docs.
+Plumbing,Watts,"Valves, backflow, water quality",Resources,"Specs, install, product docs",https://www.watts.com/resources,Official,Valves/backflow/water quality.
+Plumbing,InSinkErator,"Garbage disposals, instant hot water",Support,Manuals and troubleshooting,https://insinkerator.emerson.com/en-us/support,Official,Disposal docs.
+Electrical,Schneider Electric / Square D,"Panels, breakers, surge protection",Home surge protection,Product docs and safety,https://www.se.com/us/en/work/products/explore/home-surge-protection/,Official,Common residential panels.
+Electrical,Eaton,"Breakers, panels, surge",Wiring manual,Wiring diagrams and examples,https://www.eaton.com/content/dam/eaton/markets/machinebuilding/eaton-wiring-manual-pu08703001z-en-en-us.pdf,Official PDF,Broad electrical wiring reference.
+Electrical,Siemens,Low voltage power distribution,Product hub,"Panels, breakers, surge docs",https://www.siemens.com/en-us/products/low-voltage/,Official,Siemens residential/commercial docs.
+Electrical,Leviton,"Load centers, breakers, devices",Support,Manuals and specs,https://www.leviton.com/en/support,Official,Smart load centers and devices.
+Electrical,Lutron,"Dimmers, lighting controls",Support,Install and compatibility docs,https://support.lutron.com/us/en,Official,Dimmer compatibility.
+Electrical,Generac,Generators and transfer switches,Support/manuals,Owner/install manuals,https://www.generac.com/service-support/product-support-lookup,Official,Generator docs by serial/model.
+Electrical,Reliance Controls,Transfer switches,Support,Manuals and wiring,https://www.reliancecontrols.com/support,Official,Manual transfer switches.
+Electrical,ChargePoint,EV chargers,Support,Install/user docs,https://www.chargepoint.com/drivers/support,Official,EV charging.
+Electrical,Emporia,EV chargers and energy monitors,Support,Install/user docs,https://help.emporiaenergy.com/,Official,Energy monitoring and EV charging.
+Appliances,Whirlpool,"Dishwashers, washers, dryers, refrigerators, ranges, microwaves",Owner Center,"Manuals, parts, warranty, troubleshooting",https://www.whirlpool.com/services/manuals.html,Official,Major appliance manual lookup by model number.
+Appliances,Maytag,"Dishwashers, washers, dryers, refrigerators, ranges",Manuals and literature,"Manuals, parts, support",https://www.maytag.com/services/manuals.html,Official,Whirlpool family brand.
+Appliances,KitchenAid,"Dishwashers, refrigerators, ranges, microwaves",Manuals and literature,"Manuals, parts, support",https://www.kitchenaid.com/service-and-support/manuals.html,Official,Whirlpool family premium kitchen brand.
+Appliances,Amana Appliances,"Dishwashers, washers, dryers, refrigerators, ranges",Manuals and literature,Manuals and support,https://www.amana.com/content/amana/en_us/services/manuals.html,Official,Whirlpool family value appliance brand.
+Appliances,GE Appliances,"Dishwashers, washers, dryers, refrigerators, ranges, microwaves",Owner support,"Manuals, troubleshooting, parts",https://www.geappliances.com/ge/service-and-support/literature.htm,Official,Major appliance manual lookup.
+Appliances,Frigidaire,"Dishwashers, washers, dryers, refrigerators, ranges",Owner center,"Manuals, guides, support",https://www.frigidaire.com/en/owner-center,Official,Manual lookup and appliance support.
+Appliances,Samsung,"Dishwashers, washers, dryers, refrigerators, ranges",Support,"Manuals, downloads, troubleshooting",https://www.samsung.com/us/support/downloads/,Official,Model-specific manual lookup.
+Appliances,LG Appliances,"Dishwashers, washers, dryers, refrigerators, ranges",Manuals and documents,"Manuals, software, support",https://www.lg.com/us/support/manuals-documents,Official,Model-specific manual lookup.
+Appliances,Bosch Appliances,"Dishwashers, refrigerators, ranges",Owner manuals,"Manuals, support, parts",https://www.bosch-home.com/us/owner-support/owner-manuals,Official,Very common dishwasher brand.
+Appliances,Miele,"Dishwashers, washers, dryers, vacuums",Manuals,Operating and installation manuals,https://www.mieleusa.com/c/manuals-and-specifications-2519.htm,Official,Premium appliance manuals.
+Appliances,Sub-Zero / Wolf / Cove,"Refrigeration, cooking, dishwashers",Product support,"Manuals, specs, troubleshooting",https://www.subzero-wolf.com/assistance,Official,Premium kitchen appliance support.
+Appliances,Speed Queen,Washers and dryers,Support,"Manuals, parts, warranty",https://speedqueen.com/support/,Official,Laundry equipment support.
+Generators,Kohler,Standby generators and transfer switches,Support,"Manuals, specs, service",https://kohlerpower.com/en/residential/support,Official,Standby generator docs.
+Generators,Cummins,Standby generators,Support,"Manuals, service, support",https://www.cummins.com/generators/support,Official,Generator docs.
+Generators,Champion,Portable and standby generators,Support,"Manuals, parts, troubleshooting",https://www.championpowerequipment.com/support/,Official,Portable/inverter generator manuals.
+Generators,Westinghouse Outdoor Power,Portable generators,Support,Manuals and parts,https://westinghouseoutdoorpower.com/pages/support,Official,Portable generator manuals.
+Garage Doors,LiftMaster,Garage door openers,Support,"Manuals, parts, programming",https://support.chamberlaingroup.com/s/liftmaster,Official,Common opener brand.
+Garage Doors,Chamberlain,Garage door openers,Support,"Manuals, programming, troubleshooting",https://support.chamberlaingroup.com/s/chamberlain,Official,Common homeowner opener brand.
+Garage Doors,Genie,Garage door openers,Support,Manuals and programming,https://www.geniecompany.com/support,Official,Common opener brand.
+Garage Doors,Clopay,Garage doors,Support,Install manuals and care,https://www.clopaydoor.com/residential/support,Official,Garage door install/care.
+Windows/Doors,Andersen,Windows and doors,Support,"Install guides, parts, warranty",https://helpcenter.andersenwindows.com/,Official,Window/door support.
+Windows/Doors,Pella,Windows and doors,Support,"Install, care, parts, warranty",https://www.pella.com/support/,Official,Window/door support.
+Windows/Doors,Marvin,Windows and doors,Support,"Manuals, parts, warranty",https://www.marvin.com/support,Official,Window/door support.
+Windows/Doors,JELD-WEN,Windows and doors,Support,Install and product docs,https://www.jeld-wen.com/en-us/support,Official,Window/door support.
+Pumps,Grundfos,"Circulator, well and utility pumps",Support,"Manuals, curves, specs",https://www.grundfos.com/us/support,Official,Pump docs.
+Pumps,Pentair,"Pumps, water treatment, pool equipment",Support,"Manuals, parts, troubleshooting",https://www.pentair.com/en-us/support.html,Official,Pump/pool/water treatment docs.
+Pumps,Franklin Electric,Well pumps and controls,Support,"Manuals, AIM manual, specs",https://franklinwater.com/resources/,Official,Well pump and motor documentation.

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Homeowner & Tech Manual Library | RoofingHut</title>
+  <meta name="description" content="Search RoofingHut's homeowner and tech resource library for HVAC manuals, water heater support, roofing documents, appliance help, electrical resources, solar guides, troubleshooting links, and official brand documentation.">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="library-shell">
+    <section class="library-header">
+      <div>
+        <p class="eyebrow">RoofingHut Resources</p>
+        <h1>Homeowner & Tech Resource Library</h1>
+        <p class="intro">Find official manuals, product document hubs, troubleshooting starting points, wiring-diagram sources, and homeowner-safe guidance across roofing, HVAC, water heaters, appliances, electrical, plumbing, solar, generators, garage doors, pumps, windows, and more.</p>
+      </div>
+      <div class="notice">
+        <strong>Safety note</strong>
+        <span>Some manuals and wiring diagrams are intended for licensed professionals. Electrical, gas, refrigerant, generator, panel, and roof fall-risk work should be handled by qualified pros.</span>
+      </div>
+    </section>
+
+    <section class="controls" aria-label="Resource search controls">
+      <label class="search-label" for="resourceSearch">Search manuals, brands, trades, products, or problems</label>
+      <input id="resourceSearch" type="search" placeholder="Try: Goodman GSZ14, dishwasher not draining, Rheem water heater, LiftMaster opener">
+      <div class="filter-row">
+        <select id="tradeFilter" aria-label="Filter by trade">
+          <option value="">All trades</option>
+        </select>
+        <select id="typeFilter" aria-label="Filter by resource type">
+          <option value="">All resource types</option>
+          <option value="manual">Exact manuals</option>
+          <option value="brand_hub">Brand document hubs</option>
+          <option value="troubleshooting">Troubleshooting</option>
+          <option value="lookup_rule">Lookup rules</option>
+          <option value="coverage">Trade coverage</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="Library summary">
+      <div><strong id="totalCount">0</strong><span>Total records</span></div>
+      <div><strong id="manualCount">0</strong><span>Exact manual records</span></div>
+      <div><strong id="hubCount">0</strong><span>Brand hubs</span></div>
+      <div><strong id="tradeCount">0</strong><span>Trades covered</span></div>
+    </section>
+
+    <section class="results-head">
+      <h2>Results</h2>
+      <p id="resultCount">Loading library...</p>
+    </section>
+    <section id="results" class="results" aria-live="polite"></section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
+

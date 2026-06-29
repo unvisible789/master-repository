@@ -1,0 +1,7 @@
+topic,rule,caution
+HVAC tonnage,"018=1.5 ton, 024=2 ton, 030=2.5 ton, 036=3 ton, 042=3.5 ton, 048=4 ton, 060=5 ton","Applies broadly to split AC/heat pump model numbers, but always verify."
+Goodman GSZ14,"GSZ14 is Goodman 14 SEER-class split heat pump family using R-410A; GSZ140301 is 30,000 BTU / 2.5 ton single-phase pattern.",Exact suffix/revision matters for parts and wiring.
+HVAC safety,"Service manuals are generally for trained HVAC technicians only; homeowners should use owner manuals and call a licensed pro for electrical, refrigerant, gas, or combustion work.",Use safety note in RoofingHut answers.
+Water heater age,"Most water heater brands encode manufacture date in serial number, but each brand differs.",Use brand-specific age lookup before advising replacement age.
+Thermostat wiring,"Common terminals: R/Rc/Rh 24V, C common, Y compressor, G fan, W/Aux heat, O/B reversing valve.",Heat pumps require careful O/B and aux heat setup.
+Electrical safety,"Panel, breaker, transfer switch, surge protector, EV charger and generator wiring should be handled by qualified/licensed electricians.",Never present dangerous electrical work as DIY.

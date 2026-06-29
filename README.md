@@ -8,6 +8,7 @@ This repository serves as a central location for prompts, scripts, and workflows
 - **Scripts:** Utilities to interact with ChatGPT API and automate tasks.
 - **Integrations:** Examples of connecting ChatGPT with other services.
 - **Workflows:** GitHub Actions for automation and scheduled tasks.
+- **RoofingHut Resource Library:** Site-ready homeowner and tech resource package in `/roofinghut-resource-library`.
 
 ## Getting Started
 

@@ -1,0 +1,10 @@
+{
+  "name": "roofinghut-resource-library",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Searchable RoofingHut homeowner and tech resource library.",
+  "scripts": {
+    "serve": "python -m http.server 8088",
+    "search": "python tools/search_master_library.py"
+  }
+}
