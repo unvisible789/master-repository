@@ -1,0 +1,14 @@
+timestamp_utc,angle_deg,force_n,lever_arm_m,torque_nm,air_gap_mm,magnet_configuration,calibration_id,operator,notes
+2026-06-15T00:00:00+00:00,0,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,30,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,60,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,90,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,120,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,150,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,180,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,210,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,240,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,270,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,300,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,330,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
+2026-06-15T00:00:00+00:00,360,0.000,0.150,0.000000,5.0,example_gradient_config,cal-001,OP,example row replace with measured data
